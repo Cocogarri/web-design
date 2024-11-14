@@ -9,7 +9,6 @@ h1 {
   font-family: "Playfair Display", serif;
   color: #eb8ee6;
   text-align: right;
-  
 }
 
 nav {
@@ -125,7 +124,7 @@ footer {
   }
 
   .menu a {
-    font-size: 1em;
+    font-size: 0.9em;
     padding: 4px 0px;
   }
 
